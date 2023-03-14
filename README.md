@@ -9,3 +9,5 @@ pandas
 matplotlib
 maskpass
 inquirerpy
+
+Created by Abhishek Soni (https://github.com/AbhishekSoni1764) and Shreyansh Khandelwal 
