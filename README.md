@@ -1,5 +1,5 @@
 # bakery-management-system
-This is a basic bakery management system.
+This is an intermediate bakery management system.
 libraries used are-
 pyfiglet
 yachalk
